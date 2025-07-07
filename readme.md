@@ -8,7 +8,8 @@ This repository contains the complete work submitted for the **B032431 (B255) - 
 
 - `Assignment-July-2025.pdf` – Original assignment guidelines  
 - `Final-Report.pdf` – Final report with documented vulnerability and analysis  
-- `Report-Template.docx` – Supporting Word version of the report  
+- `Report-Template.docx` – Supporting Word version of the report
+- `course-material` – All the slides & pdfs provided by the professor 
 
 ---
 
